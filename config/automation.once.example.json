@@ -75,7 +75,7 @@
     },
     {
       "key": "department",
-      "spreadsheetId": "EXAMPLE_NEWCOMER_SPREADSHEET_ID",
+      "spreadsheetId": "EXAMPLE_DEPARTMENT_SPREADSHEET_ID",
       "requiredSheets": ["部門別サマリ"],
       "activeSheet": "部門別サマリ",
       "expectedGid": "100000003",
